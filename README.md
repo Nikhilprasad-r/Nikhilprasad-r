@@ -1,84 +1,121 @@
-# Portfolio & Tech Stack
+<div align="center">
+  <h1>Full Stack Developer & Cloud Architect</h1>
+  <p>Building modern applications with AI, Cloud, and cutting-edge technologies</p>
+</div>
 
-## About Me
-Experienced Full Stack Developer specializing in modern web technologies, cloud architecture, and AI integration. My expertise spans across frontend development with Next.js and React, backend systems with Nest.js and Express, and cloud infrastructure on AWS and Azure.
+<div align="center">
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS"/>
+  <img src="https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Azure"/>
+</div>
 
-## Technical Expertise
+<br/>
 
-### Frontend Development
-```typescript
-const frontendSkills = {
-  frameworks: ['Next.js', 'React', 'React Native'],
-  language: 'TypeScript',
-  expertise: ['Server Components', 'State Management', 'Mobile Development']
-}
-```
+<details>
+<summary>🛠️ Technical Stack</summary>
 
-### Backend Development
-```typescript
-const backendSkills = {
-  frameworks: ['Nest.js', 'Express'],
-  runtime: ['Node.js', 'Bun'],
-  patterns: ['Microservices', 'REST', 'GraphQL']
-}
-```
+### Frontend
+- **Frameworks**: Next.js, React, React Native
+- **Language**: TypeScript
+- **Expertise**: Server Components, State Management, Mobile Development
+
+### Backend
+- **Frameworks**: Nest.js, Express
+- **Runtime**: Node.js, Bun
+- **Patterns**: Microservices, REST, GraphQL
 
 ### Cloud & Infrastructure
-```typescript
-const cloudSkills = {
-  aws: ['Lambda', 'CDK', 'API Gateway'],
-  azure: ['Functions', 'App Service'],
-  tools: ['Serverless Framework', 'Terraform'],
-  practices: ['IaC', 'DevOps', 'CI/CD']
-}
-```
+- **AWS**: Lambda, CDK, API Gateway
+- **Azure**: Functions, App Service
+- **Tools**: Serverless Framework, IaC
 
 ### Specialized Skills
-```typescript
-const specializations = {
-  ai: ['Agentic AI', 'LLM Integration', 'AI Workflows'],
-  media: ['Audio Processing', 'Video Processing', 'Streaming'],
-  practices: ['Open Source', 'System Design', 'Performance Optimization']
-}
-```
+- **AI**: Agentic AI, LLM Integration
+- **Media**: Audio/Video Processing
+- **Practices**: Open Source, System Design
+</details>
 
-## Featured Projects
-[Project descriptions will be added here]
+<details>
+<summary>🌟 Featured Projects</summary>
 
-## Open Source Contributions
+<table>
+  <tr>
+    <td align="center">
+      <b>Voice Emotion Detection</b><br/>
+      Real-time emotion detection from voice<br/>
+      <a href="https://github.com/Nikhilprasad-r/voice-emotion-detection">View Project</a>
+    </td>
+    <td align="center">
+      <b>Motion Capture</b><br/>
+      Motion capture system using MediaPipe<br/>
+      <a href="https://github.com/Nikhilprasad-r/Motion-Capture">View Project</a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <b>CIFAR-10 with ResNet</b><br/>
+      Image classification using ResNet architecture<br/>
+      <a href="https://github.com/Nikhilprasad-r/CIFAR10-ResNet">View Project</a>
+    </td>
+    <td align="center">
+      <b>LAN File Transfer App</b><br/>
+      File transfer application for LAN networks<br/>
+      <a href="https://github.com/Nikhilprasad-r/LAN-file-transfer">View Project</a>
+    </td>
+  </tr>
+</table>
+</details>
 
-I actively contribute to the open source community, focusing on:
-- Project improvements
-- Bug fixes
-- Documentation
-- Feature development
+<details>
+<summary>🤝 Open Source Contributions</summary>
 
-## Get in Touch
+<table>
+  <tr>
+    <th>Project</th>
+    <th>Contribution</th>
+    <th>Status</th>
+  </tr>
+  <tr>
+    <td>Node.js</td>
+    <td>Documentation improvements and bug fixes</td>
+    <td><img src="https://img.shields.io/badge/status-merged-success" alt="Merged"/></td>
+  </tr>
+</table>
+</details>
 
-- 📧 Email: [Your Email]
-- 💼 LinkedIn: [Your LinkedIn]
-- 🐦 Twitter: [Your Twitter]
-- 🌐 Website: [Your Website]
+<div align="center">
+  <h2>GitHub Statistics</h2>
+  <img src="https://github-readme-stats.vercel.app/api?username=Nikhilprasad-r&show_icons=true&theme=radical" alt="GitHub Stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nikhilprasad-r&theme=radical" alt="GitHub Streak"/>
+</div>
 
-## GitHub Statistics
+<div align="center">
+  <h2>Connect With Me</h2>
+  <a href="https://www.linkedin.com/in/nikhilprasad-r/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://github.com/Nikhilprasad-r">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+</div>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&theme=dark)
-
-## Current Focus
-
-- Building scalable AI-powered applications
-- Optimizing cloud infrastructure costs
-- Contributing to open source projects
-- Exploring new technologies in the JavaScript ecosystem
+<div align="center">
+  <h2>Current Focus</h2>
+  <table>
+    <tr>
+      <td align="center">🤖<br/>AI Development</td>
+      <td align="center">☁️<br/>Cloud Architecture</td>
+      <td align="center">🎯<br/>System Design</td>
+      <td align="center">🌱<br/>Open Source</td>
+    </tr>
+  </table>
+</div>
 
 ---
 
-### Looking to Collaborate?
-
-I'm always interested in working on innovative projects, particularly those involving:
-- AI/ML implementations
-- Cloud architecture
-- Performance optimization
-- Open source initiatives
-
-Feel free to reach out if you'd like to discuss potential collaborations!
+<div align="center">
+  <p>Looking to collaborate? Let's build something amazing together!</p>
+  <img src="https://komarev.com/ghpvc/?username=Nikhilprasad-r&color=blueviolet" alt="Profile views"/>
+</div>
