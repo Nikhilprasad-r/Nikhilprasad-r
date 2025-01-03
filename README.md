@@ -82,6 +82,11 @@
     <th>Contribution</th>
     <th>Status</th>
   </tr>
+   <tr>
+    <td>Azure</td>
+    <td>Azure Docintelligence Documentation improvements and bug fixes</td>
+    <td><img src="https://img.shields.io/badge/status-merged-success" alt="Merged"/></td>
+  </tr>
   <tr>
     <td>Node.js</td>
     <td>Documentation improvements and bug fixes</td>
