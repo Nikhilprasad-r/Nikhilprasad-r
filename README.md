@@ -48,7 +48,7 @@
 <table>
   <tr>
     <td align="center">
-      <b>Voice Emotion Detection</b><br/>
+      <b>Roadmap Generation</b><br/>
       Real-time emotion detection from voice<br/>
       <a href="https://github.com/Nikhilprasad-r/voice-emotion-detection">View Project</a>
     </td>
@@ -116,7 +116,7 @@
   <table>
     <tr>
       <td align="center">🤖<br/>AI Development</td>
-      <td align="center">☁️<br/>Cloud Architecture</td>
+      <td align="center">☁️<br/>Function as a Service</td>
       <td align="center">🎯<br/>System Design</td>
       <td align="center">🌱<br/>Open Source</td>
     </tr>
