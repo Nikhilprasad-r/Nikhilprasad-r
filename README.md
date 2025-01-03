@@ -97,6 +97,7 @@
 
 <div align="center">
   <h2>GitHub Statistics</h2>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Nikhilprasad-r&show_icons=true&theme=radical" alt="GitHub Languages"/>
   <img src="https://github-readme-stats.vercel.app/api?username=Nikhilprasad-r&show_icons=true&theme=radical" alt="GitHub Stats"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nikhilprasad-r&theme=radical" alt="GitHub Streak"/>
 </div>
