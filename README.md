@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Full Stack Developer & Cloud Architect</h1>
+  <h1>Full Stack Developer & Agentic Ai Enthusiast</h1>
   <p>Building modern applications with AI, Cloud, and cutting-edge technologies</p>
 </div>
 
