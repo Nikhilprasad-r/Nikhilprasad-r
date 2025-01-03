@@ -4,17 +4,22 @@
 </div>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js"/>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS"/>
-  <img src="https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Azure"/>
+  <h2>Technology Stack</h2>
+  
+  <!-- Frontend & Core Technologies -->
+  <img src="https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,html,css" /><br>
+  
+  <!-- Backend & Database -->
+  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,mongodb,mysql,postgres" /><br>
+  
+  <!-- Cloud, Tools & Others -->
+  <img src="https://skillicons.dev/icons?i=aws,azure,docker,git,github,vscode" />
 </div>
 
 <br/>
 
 <details>
-<summary>🛠️ Technical Stack</summary>
+<summary>🛠️ Detailed Technical Expertise</summary>
 
 ### Frontend
 - **Frameworks**: Next.js, React, React Native
