@@ -1,66 +1,55 @@
 <div align="center">
-  <h1>Full Stack Developer & Agentic Ai Enthusiast</h1>
-  <p>Building modern applications with AI, Cloud, and cutting-edge technologies</p>
-</div>
 
-<div align="center">
-  <h2>Technology Stack</h2>
-  
-  <!-- Frontend & Core Technologies -->
-  <img src="https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,html,css" /><br>
-  
-  <!-- Backend & Database -->
-  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,mongodb,mysql,postgres" /><br>
-  
-  <!-- Cloud, Tools & Others -->
-  <img src="https://skillicons.dev/icons?i=aws,azure,docker,git,github,vscode" />
-</div>
-<div align="center">
-  
-# 👋 Hey there! I'm a Full Stack Developer & AI Innovator
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Nikhil%20Prasad%20R&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=55&desc=Full%20Stack%20Developer%20%7C%20Agentic%20AI%20Enthusiast&descAlignY=75&descSize=18&descColor=a78bfa" />
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Building+the+Future+with+AI+%26+Code;Full+Stack+Developer;Agentic+AI+Enthusiast;Open+Source+Contributor" alt="Typing SVG" />
+<br/>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Nikhilprasad-r&color=0891b2&style=flat-square&label=Profile+Views" />
-  <img src="https://img.shields.io/github/followers/Nikhilprasad-r?color=0891b2&style=flat-square" />
-  <img src="https://img.shields.io/github/stars/Nikhilprasad-r?color=0891b2&style=flat-square" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&width=640&lines=Building+the+future+with+AI+%26+Code+%F0%9F%9A%80;Full+Stack+%7C+Cloud+%7C+Agentic+AI;TypeScript+%7C+Python+%7C+Go+Developer;Open+Source+Contributor+%F0%9F%8C%B1" />
+
+<br/>
+
+<p>
+  <img src="https://komarev.com/ghpvc/?username=Nikhilprasad-r&color=7c3aed&style=for-the-badge&label=PROFILE+VIEWS" />
+  <img src="https://img.shields.io/github/followers/Nikhilprasad-r?color=7c3aed&style=for-the-badge&logo=github&label=FOLLOWERS" />
+  <img src="https://img.shields.io/github/stars/Nikhilprasad-r?color=7c3aed&style=for-the-badge&logo=github&label=STARS" />
 </p>
 
 </div>
 
 ---
 
-## 🚀 About Me
+## `$ whoami`
 
 ```typescript
-const developer = {
-  name: "Nikhil Prasad R",
-  role: "Full Stack Developer & AI Enthusiast",
-  location: "India 🇮🇳",
-  currentFocus: ["Agentic AI", "Serverless Architecture", "System Design"],
-  communities: ["Open Source Contributor", "Tech Blogger"],
-  funFact: "I turn coffee into code and ideas into reality ☕→💻"
-};
+const nikhil = {
+  name        : "Nikhil Prasad R",
+  role        : ["Full Stack Developer", "AI Innovator", "Open Source Contributor"],
+  location    : "India 🇮🇳",
+  languages   : ["TypeScript", "JavaScript", "Python", "Go"],
+  currentFocus: ["Agentic AI Systems", "Serverless Architecture", "LLM Integration"],
+  philosophy  : "Ship fast. Learn faster. Build what matters. ⚡",
+} as const;
 ```
+
+---
+
+## 🧰 Tech Arsenal
 
 <div align="center">
 
-## 🛠️ Tech Arsenal
+### 🎨 Frontend
+<img src="https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,tailwind,html,css,figma&theme=dark" />
 
-### 🎨 Frontend Magic
-<img src="https://skillicons.dev/icons?i=react,nextjs,typescript,tailwind,html,css,figma&theme=dark" />
+### ⚡ Backend
+<img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,go,python,graphql,prisma,bun&theme=dark" />
 
-### ⚡ Backend Power  
-<img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,bun,graphql,prisma&theme=dark" />
-
-### 🗄️ Database & Storage
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,redis,firebase&theme=dark" />
+### 🗄️ Databases & Storage
+<img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,redis,firebase&theme=dark" />
 
 ### ☁️ Cloud & DevOps
 <img src="https://skillicons.dev/icons?i=aws,azure,docker,kubernetes,githubactions,vercel&theme=dark" />
 
-### 🤖 AI & ML Tools
+### 🤖 AI / ML
 <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,opencv&theme=dark" />
 
 </div>
@@ -70,8 +59,8 @@ const developer = {
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img height="200" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Nikhilprasad-r&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="200" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Nikhilprasad-r&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Nikhilprasad-r&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github" />
+  <img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Nikhilprasad-r&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
 </div>
 
 <div align="center">
@@ -79,21 +68,21 @@ const developer = {
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Nikhilprasad-r&bg_color=1a1b27&color=70a5fd&line=70a5fd&point=ffffff&area=true&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Nikhilprasad-r&bg_color=1a1b27&color=a78bfa&line=a78bfa&point=ffffff&area=true&hide_border=true&area_color=a78bfa" />
 </div>
 
 ---
 
-## 🏆 Featured Projects
+## 🚀 Featured Projects
 
 <div align="center">
 
-| 🎯 Project | 💡 Description | 🔗 Links |
-|------------|----------------|----------|
-| **🎤 Voice Emotion Detection** | Real-time emotion analysis from voice using ML | [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Nikhilprasad-r/voice-emotion-detection) |
-| **🎬 Motion Capture System** | Advanced motion tracking with MediaPipe | [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Nikhilprasad-r/Motion-Capture) |
-| **🖼️ CIFAR-10 ResNet** | Image classification with deep learning | [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Nikhilprasad-r/CIFAR10-ResNet) |
-| **📁 LAN File Transfer** | High-speed file sharing over local network | [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Nikhilprasad-r/LAN-file-transfer) |
+| Project | Description | Tech | Links |
+|---------|-------------|------|-------|
+| 🎤 **Voice Emotion Detection** | Real-time emotion analysis from voice using ML | `Python` `TensorFlow` `Audio DSP` | [![Repo](https://img.shields.io/badge/GitHub-161b22?style=for-the-badge&logo=github)](https://github.com/Nikhilprasad-r/voice-emotion-detection) |
+| 🎬 **Motion Capture System** | Advanced motion tracking with MediaPipe | `Python` `OpenCV` `MediaPipe` | [![Repo](https://img.shields.io/badge/GitHub-161b22?style=for-the-badge&logo=github)](https://github.com/Nikhilprasad-r/Motion-Capture) |
+| 🖼️ **CIFAR-10 ResNet** | Image classification with deep learning | `Python` `PyTorch` `ResNet` | [![Repo](https://img.shields.io/badge/GitHub-161b22?style=for-the-badge&logo=github)](https://github.com/Nikhilprasad-r/CIFAR10-ResNet) |
+| 📁 **LAN File Transfer** | High-speed file sharing over local network | `Go` `TypeScript` `Networking` | [![Repo](https://img.shields.io/badge/GitHub-161b22?style=for-the-badge&logo=github)](https://github.com/Nikhilprasad-r/LAN-file-transfer) |
 
 </div>
 
@@ -103,198 +92,121 @@ const developer = {
 
 <div align="center">
 
-| Project | Contribution | Impact | Status |
-|---------|-------------|---------|--------|
-| **Microsoft Azure** | Documentation & Bug Fixes | Improved developer experience | ![Merged](https://img.shields.io/badge/✅-Merged-28a745) |
-| **Node.js** | Core improvements & Docs | Enhanced performance | ![Merged](https://img.shields.io/badge/✅-Merged-28a745) |
+| Project | Contribution | Status |
+|---------|-------------|--------|
+| **Microsoft Azure** | Azure DocIntelligence — documentation improvements & bug fixes | ![Merged](https://img.shields.io/badge/✅_Merged-238636?style=flat-square) |
+| **Node.js** | Core documentation improvements & bug fixes | ![Merged](https://img.shields.io/badge/✅_Merged-238636?style=flat-square) |
 
 </div>
 
 ---
 
-## 📈 Contribution Graph
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Nikhilprasad-r/Nikhilprasad-r/output/snake.svg" alt="Snake animation" />
-</div>
-
----
-
-## 🎯 Current Focus Areas
+## 🎯 2024 Focus Map
 
 <div align="center">
 
 ```mermaid
 mindmap
-  root((2024 Goals))
-    AI Development
+  root((Nikhil))
+    AI & ML
       Agentic Systems
-      LLM Integration
+      LLM Fine-tuning
       ML Pipelines
-    Cloud Architecture
-      Serverless Functions
+    Languages
+      TypeScript
+      Python
+      Go
+    Cloud & Infra
+      Serverless / FaaS
       Microservices
       Infrastructure as Code
     Open Source
       Community Building
       Knowledge Sharing
-      Collaboration
     System Design
-      Scalable Solutions
-      Performance Optimization
-      Best Practices
+      Scalable Architecture
+      Performance Engineering
 ```
 
 </div>
 
 ---
 
-## 📫 Let's Connect & Collaborate!
+## 📈 Contribution Snake
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Nikhilprasad-r/Nikhilprasad-r/output/snake.svg" alt="contribution snake animation" />
+</div>
+
+---
+
+## 📫 Let's Connect
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nikhilprasad-r/)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Nikhilprasad-r)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/your-handle)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nikhilprasad-r/)
+[![GitHub](https://img.shields.io/badge/GitHub-161b22?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Nikhilprasad-r)
+[![Twitter](https://img.shields.io/badge/X%20%2F%20Twitter-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/your-handle)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://your-portfolio.com)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@gmail.com)
+[![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@gmail.com)
 
-### 💭 Random Dev Quote
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
-
----
-
-<details>
-<summary>🎮 When I'm not coding...</summary>
-<br>
-
-- 🎵 Exploring new music genres
-- 📚 Reading tech blogs and research papers  
-- 🏃‍♂️ Running and staying active
-- 🎮 Gaming (strategy and puzzle games)
-- 🌱 Contributing to open source projects
-- ☕ Perfecting my coffee brewing skills
-
-</details>
-
----
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&text=Thanks%20for%20visiting!&fontSize=16&fontColor=fff&animation=twinkling" />
-</div>
-
-</div>
 <br/>
 
-<details>
-<summary>🛠️ Detailed Technical Expertise</summary>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
 
-### Frontend
-- **Frameworks**: Next.js, React, React Native
-- **Language**: TypeScript
-- **Expertise**: Server Components, State Management, Mobile Development
-
-### Backend
-- **Frameworks**: Nest.js, Express
-- **Runtime**: Node.js, Bun
-- **Patterns**: Microservices, REST, GraphQL
-
-### Cloud & Infrastructure
-- **AWS**: Lambda, CDK, API Gateway
-- **Azure**: Functions, App Service
-- **Tools**: Serverless Framework, IaC
-
-### Specialized Skills
-- **AI**: Agentic AI, LLM Integration
-- **Media**: Audio/Video Processing
-- **Practices**: Open Source, System Design
-</details>
-
-<details>
-<summary>🌟 Featured Projects</summary>
-
-<table>
-  <tr>
-    <td align="center">
-      <b>Roadmap Generation</b><br/>
-      Real-time emotion detection from voice<br/>
-      <a href="https://github.com/Nikhilprasad-r/voice-emotion-detection">View Project</a>
-    </td>
-    <td align="center">
-      <b>Motion Capture</b><br/>
-      Motion capture system using MediaPipe<br/>
-      <a href="https://github.com/Nikhilprasad-r/Motion-Capture">View Project</a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <b>CIFAR-10 with ResNet</b><br/>
-      Image classification using ResNet architecture<br/>
-      <a href="https://github.com/Nikhilprasad-r/CIFAR10-ResNet">View Project</a>
-    </td>
-    <td align="center">
-      <b>LAN File Transfer App</b><br/>
-      File transfer application for LAN networks<br/>
-      <a href="https://github.com/Nikhilprasad-r/LAN-file-transfer">View Project</a>
-    </td>
-  </tr>
-</table>
-</details>
-
-<details>
-<summary>🤝 Open Source Contributions</summary>
-
-<table>
-  <tr>
-    <th>Project</th>
-    <th>Contribution</th>
-    <th>Status</th>
-  </tr>
-   <tr>
-    <td>Azure</td>
-    <td>Azure Docintelligence Documentation improvements and bug fixes</td>
-    <td><img src="https://img.shields.io/badge/status-merged-success" alt="Merged"/></td>
-  </tr>
-  <tr>
-    <td>Node.js</td>
-    <td>Documentation improvements and bug fixes</td>
-    <td><img src="https://img.shields.io/badge/status-merged-success" alt="Merged"/></td>
-  </tr>
-</table>
-</details>
-
-<div align="center">
-  <h2>GitHub Statistics</h2>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Nikhilprasad-r&show_icons=true&theme=radical&layout=donut" alt="GitHub Languages"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=Nikhilprasad-r&show_icons=true&theme=radical" alt="GitHub Stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nikhilprasad-r&theme=radical" alt="GitHub Streak"/>
-</div>
-
-<div align="center">
-  <h2>Connect With Me</h2>
-  <a href="https://www.linkedin.com/in/nikhilprasad-r/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://github.com/Nikhilprasad-r">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-</div>
-
-<div align="center">
-  <h2>Current Focus</h2>
-  <table>
-    <tr>
-      <td align="center">🤖<br/>AI Development</td>
-      <td align="center">☁️<br/>Function as a Service</td>
-      <td align="center">🎯<br/>System Design</td>
-      <td align="center">🌱<br/>Open Source</td>
-    </tr>
-  </table>
 </div>
 
 ---
 
+<details>
+<summary>🔧 Detailed Technical Expertise</summary>
+<br/>
+
+**Frontend**
+- Frameworks: `Next.js`, `React`, `React Native`
+- Language: `TypeScript`, `JavaScript`
+- Expertise: Server Components, App Router, State Management, Mobile Development
+
+**Backend**
+- Frameworks: `NestJS`, `Express`, `Gin` (Go), `FastAPI` (Python)
+- Runtimes: `Node.js`, `Bun`, `Go`, `Python`
+- Patterns: Microservices, REST, GraphQL, gRPC
+
+**AI / ML**
+- Tools: `LangChain`, `LlamaIndex`, `OpenAI SDK`, `Anthropic SDK`
+- Frameworks: `TensorFlow`, `PyTorch`, `Hugging Face`
+- Focus: Agentic AI, LLM Integration, Retrieval-Augmented Generation
+
+**Cloud & Infrastructure**
+- AWS: `Lambda`, `CDK`, `API Gateway`, `ECS`
+- Azure: `Functions`, `App Service`, `DocIntelligence`
+- Tools: `Docker`, `Kubernetes`, `Serverless Framework`, `Terraform`
+
+**Languages at a glance**
+| Language | Proficiency | Primary Use |
+|----------|-------------|-------------|
+| TypeScript | ████████████ Expert | Frontend / Backend |
+| Python | ██████████░░ Advanced | AI/ML, Scripting, APIs |
+| Go | ████████░░░░ Proficient | CLIs, High-perf Services |
+| JavaScript | ████████████ Expert | Full Stack |
+
+</details>
+
+<details>
+<summary>🎮 Beyond the Terminal</summary>
+<br/>
+
+- 🎵 Exploring new music genres
+- 📚 Reading research papers on AI & distributed systems
+- 🏃 Running and staying active
+- 🎮 Strategy & puzzle games
+- ☕ Obsessively perfecting coffee brewing
+- 🌱 Mentoring & contributing to open source
+
+</details>
+
+---
+
 <div align="center">
-  <p>Looking to collaborate? Let's build something amazing together!</p>
-  <img src="https://komarev.com/ghpvc/?username=Nikhilprasad-r&color=blueviolet" alt="Profile views"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7c3aed,100:a78bfa&height=100&section=footer&text=Thanks%20for%20visiting!&fontSize=16&fontColor=fff&animation=twinkling" />
 </div>
